@@ -1,5 +1,3 @@
-# automating-internet-app
-Selenium code snippets - curated list of working code example
+forked from madhank93/automating-internet-app:
 
-
-## Please refer the Medium article - 
+## Selenium code snippets
